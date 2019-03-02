@@ -29,3 +29,10 @@ Information from The Kanji Map (see all the parts of a Kanji to understand its o
 
 Information from Kanshudo (huge learning platform with a lot of info about Kanji):
 ![alt text](https://lh3.googleusercontent.com/8OqZ7c75r6cqmRCCbrEakFvjCkdjJVcqUk7XiwgfQtPprWejX_Nznl74Z9UFTd8WhK4JyBGTSnA=w640-h400-e365 "Information on Kanshudo")
+
+
+### Changelog
+
+#### [1.0.1] - 2019-03-02
+- Change default font to sans-serif.
+- Increase instructions panel width.
