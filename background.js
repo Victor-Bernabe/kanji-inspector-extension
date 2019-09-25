@@ -5,7 +5,7 @@ chrome.runtime.onInstalled.addListener(function() {
       id: key,
       title: websites[key],
       type: 'normal',
-      contexts: ['selection'],
+      contexts: ['selection']
     });
   }
 });
@@ -13,5 +13,5 @@ chrome.runtime.onInstalled.addListener(function() {
 // Search Kanji on the website on click
 chrome.contextMenus.onClicked.addListener(function(item, tab) {
   let url = item.menuItemId + item.selectionText;
-  chrome.tabs.create({url: url, index: tab.index + 1});
+  chrome.tabs.create({ url: url, index: tab.index + 1 });
 });
