@@ -5,5 +5,6 @@ const websites = {
   'https://www.kanshudo.com/kanji/': 'Kanshudo',
   'https://translate.google.com/#view=home&op=translate&sl=ja&tl=en&text=':
     'Google Translate',
+  'https://kai.kanjiapi.dev/#!/': 'Kanjikai',
   'https://kanji-inspector.victorbp.site/home/': 'Kanji Inspector'
 };
